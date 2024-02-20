@@ -1,5 +1,5 @@
 # cloud_secrets_retrieval
-Python script to test retrieval or secrets from AWS, Azure, and GCP
+Python script to test retrieval of secrets from AWS, Azure, and GCP
 
 # Requirements
 
